@@ -1,4 +1,4 @@
-Assignment 2 - Description.
+Assignment 2 - Description. Grade 10/10.
 
 1. Write a Java application that prompts the user of a hospital admissions system to input the First Name, Surname, Patient ID, and Phone Number (string) using the standard input - this information should then be saved to a file named patientData. The program should use the FileWriter class and an appropriate processing stream to handle the data output.  (4 marks)
 
