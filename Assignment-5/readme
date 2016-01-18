@@ -1,1 +1,13 @@
+Assignment5 - Description. Grade 10/10.
 
+Modify last week's assignment to sort the ArrayList of Rational objects using a separate Comparator class 
+(a class that implements java.util.Comparator). The sort() method can take in a second argument as the comparator, 
+which should be an instance of your Comparator class (4 marks).
+
+Use Collections.shuffle() to shuffle the list before sorting (2 marks).
+
+Modify the program to use the built-in Collections.binarySearch() method to check if a particular fraction, 
+inputted through console, is contained within the list. Print out your results to the console (3 marks).
+
+Use comments to explain your code and keep it simple.  Include your name, 
+ID number and class in each java file as a comment (1 mark).
