@@ -1,1 +1,17 @@
+Assignment 7 - Description. Grade 10/10.
 
+Write a simple StockRoom class for an online shop that may be safely accessed by multiple threads of execution 
+at the same time (include addToStock/ remove/ checkStock/ methods). Write a driver program that creates an 
+instance of the StockRoom class and then creates several concurrent threads that use the various methods of 
+the same StockRoom object. Print the output from your program to see how it operates. (4 marks)
+
+Create a Java class called FlashingLabel that takes a text string and displays it centered in an Applet. 
+The text should blink on and off, and clicking with the left mouse button should stop or start the flashing. 
+It should blink at a rate determined by a sleepTime (in milliseconds) parameter which can be inputted through console.  
+(Hint: Use a thread to facilitate blinking and then suspend it's execution by calling Thread.sleep()) (4 marks)
+
+Keep your code simple and elegant. Use comments to explain your code (1 mark).
+
+ 
+
+Submit your code in the format assignment9_fname_lname.zip. Also include your details (name, id etc) in the java files. (1 mark)
