@@ -1,1 +1,16 @@
+Assignment 4 - Description. Grade 9/10.
+
+Write a Java class called Rational for performing arithmetic with rational numbers. 
+(A rational no. is a number that can be expressed in the form of p/q, where p,q are integers 
+with q !=0 and p and q have no common divisor) .Make the class implement the comparable 
+interface so that each object should be able to compare itself to another object of the same type(4 marks) .
+
+Write a Java program that uses an ArrayList to store a collection of 10 Rational objects. 
+Write a simple algorithm that manually iterates through the contents of the list and places them 
+in ascending (i.e. smallest Rational to the biggest Rational) order into a new list. 
+You should use insertion sort to do the sorting – do NOT use the built-in sort algorithm at this stage (4 marks).
+
+Print out the contents of the list after sorting the contents to verify the results (1 mark).
+
+Keep your program simple and elegant and use commenting wherever necessary. (1 mark).
 
