@@ -1,1 +1,16 @@
+Assignment 8 - Description. Grade 10/10.
 
+Implement a FIFO queue up to some bounded maximum size to hold String objects that can be accessed by multiple 
+Producer and Consumer threads. The Producer threads produce String objects while the Consumer threads consume these objects. 
+Every String object produced must be consumed exactly once.  Use the ReentrantLock class and Condition variables in your 
+implementation.
+
+Write an application class that create a random number of Producer and Consumer threads at startup to test your implementation.
+
+Print out queue statistics e.g. number of items in the queue and thread access details as the simulation progresses. 
+
+Keep your code simple and elegant. Use comments to explain your code (1 mark).
+
+Submit your code in the format assignment9_fname_lname.zip. Also include your details (name, id etc) in the java files. (1 mark)
+
+ Show the queue statistics using snapshots in a pdf/doc file ( 1 mark)
