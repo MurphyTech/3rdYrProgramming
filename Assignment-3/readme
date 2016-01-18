@@ -1,1 +1,19 @@
+Assignment 3 - Description. Grade 10/10.
 
+    Write a simple Java program that creates an array of StudentData objects (name, course code, and ID), 
+    including a toString override to print out all variables. 
+    
+    It then serializes the array (and not the StudentData objects individually) and saves 
+    it to a file namedstudentdata.txt. 
+    
+    It should then read the array from the file and reconstruct a new array object from this data, 
+    and print out each item in the array to the console. (5 marks)
+    
+    Copy and rename these two classes. This time, use custom readObject() and writeObject() override 
+    methods in StudentData to read and write the object's variables. Do not use defaultWriteObject or 
+    defaultReadObject methods to do this. (2 marks)
+    
+    Unrelated to the previous two parts, write a simple program that uses a RandomAccessFile object 
+    to open an ordinary text file and to then append an extra line of content onto the end of the file. (2 marks)
+
+Elegant code and comments (1 mark)
