@@ -1,1 +1,13 @@
+Assignment 2 - Description.
 
+1. Write a Java application that prompts the user of a hospital admissions system to input the First Name, Surname, Patient ID, and Phone Number (string) using the standard input - this information should then be saved to a file named patientData. The program should use the FileWriter class and an appropriate processing stream to handle the data output.  (4 marks)
+
+2. Create a separate class to read in that file, line by line, and output it to the console with the line number. The program should create aFileReader object and pass this in the constructor of a LineNumberReader object to handle the file reading required  (4 marks).
+
+The LineNumberReader class has two useful methods that can be used:
+
+public String readLine() throws IOException;
+
+This method reads a line of text. It returns a String containing the contents of the line, not including any line termination characters, or null if the end of the stream has been reached.
+
+public int getLineNumber();
