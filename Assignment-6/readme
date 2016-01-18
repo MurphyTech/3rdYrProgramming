@@ -1,1 +1,23 @@
+Assignment 6 - Description. Grade 10/10.
 
+Develop a simple GUI-based Java program that may be used to control an electric heater. Use suitable Swing components to allow the heater controller to perform the following functions: 
+
+1. Switch the heater system on or off (2 marks). 
+
+2. Choose a heat intensity level from a list -  Level 1, 2, 3, 4 or 5 (2 marks). 
+
+3. Mode of Operation buttons - Manual or Timed (2 marks). 
+
+4. A button that, when pressed, will display the current status (aka: currently selected settings) of the heater in a text field (2 marks).
+
+ 
+
+–  Show the top-level design of the GUI, including any Panels and related Layout Manager objects that you propose to use.  
+
+–  For each of the components you’ve chosen above, write the code to construct the component, add the component to a container and then setup simple event handling for the component (for those that generate events). 
+
+–  The event handlers need only print out a message indicating that they have been called.
+
+Include your name, ID and class as a comment in the  java file.   
+
+IMPORTANT: Show the operation of your GUI using snapshots in a pdf file. (2 marks)
