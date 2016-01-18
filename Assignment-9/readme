@@ -1,1 +1,31 @@
+Assignment 9 - Description. Grade 20/20.
 
+Part A
+
+Create server and client programs that allows any kind of file to be uploaded and downloaded to the server.  
+
+The server should be multi-threaded, and have one thread per connection.  (12 marks)
+
+Include appropriate output to the console window, e.g. "client connected" (1 mark)
+
+The client should have a simple GUI that allows the user to specify whether to upload or download a file, as well as the file name (or file directory).
+
+Include a pdf file showing the operation of the GUI (1 mark)
+
+Comment your code appropriately, including your details (name, ID number) in each java file.  Submit your assignment in the form Assignment9_firstname_lastname.zip (1 mark)  
+
+
+
+ this assignment is notably longer than the other assignments - it is strongly recommended that you do not leave it to the last week. Also that an IP address may be used instead of a host name (and 127.0.0.1 is to connect to the same computer), and remember thatFileInputStream and FileOutputStream are used to convert bytes into a file.
+
+ 
+
+Part B
+
+Create server and client programs that allows a user to enter their name in the client and pass it to the server and return this information to the client console.
+
+Use Datagram sockets to implement this using send and receive methods (5 mark)
+
+Include Screen Shot of your results and Java Files
+
+20 marks are awarded for this assignment, instead of the normal 10.
